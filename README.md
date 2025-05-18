@@ -26,7 +26,10 @@ HTML, CSS, JavaScript
 
 
 **Screenshot**
+
 ![Screenshot aplikasi](screenshot/1.png)
+![Screenshot aplikasi](screenshot/2.png)
+![Screenshot aplikasi](screenshot/3.png)
 
 **Rencana Pengembangan**
 
